@@ -1,5 +1,4 @@
 import os
-import dbcon
 import var
 import sqlite3
 import telebot
