@@ -1,9 +1,9 @@
 ## Instalation:
-Windows
+**Windows**
 ```python
 python install.py
 ```
-Linux
+**Linux**
 ```python
 python3 Linstall.py
 ```
