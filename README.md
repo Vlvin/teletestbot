@@ -13,3 +13,7 @@ python3 Linstall.py
 ```python
 token = "Your token"
 ```
+- and last step
+```cmd
+python main.py
+```
